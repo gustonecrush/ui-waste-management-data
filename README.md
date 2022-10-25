@@ -20,5 +20,5 @@ You may also see any lint errors in the console.
 
 ## Result
 
-<img src="https://i.postimg.cc/brGxx4RQ/Screen-Shot-2022-10-26-at-01-28-10.png">
-<img src="https://i.postimg.cc/JhWp175S/Screen-Shot-2022-10-26-at-01-28-19.png">
+<img width="200" src="https://i.postimg.cc/brGxx4RQ/Screen-Shot-2022-10-26-at-01-28-10.png">
+<img width="200" src="https://i.postimg.cc/tJtxNyxn/Screen-Shot-2022-10-26-at-01-29-45.png">
