@@ -1,24 +1,12 @@
-# Getting Started with Create React App
+# DOCUMENTATION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## START PROJECT
 
-## Installation
+- Download this project and save to your local and also download `api-waste` repository to get the api for this simple app
+- Run `npm install` to install all packages needed
+- Then, you can run command `npm start` to start your react server and see how it works
 
-In the project directory, you can run:
-
-### `npm install`
-
-Install all dependencies needed for this project.
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-## Result
+## RESULT
 
 <div style="display: flex">
 <img width="300" src="https://i.postimg.cc/brGxx4RQ/Screen-Shot-2022-10-26-at-01-28-10.png">
