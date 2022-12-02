@@ -1,6 +1,12 @@
 # DOCUMENTATION
 
+
+## ABOUT
+This repo is about code interview that i did to join in Waste4Change, which this code built the app to do CRUD about waste and it's material. This app consume API from `api-waste` repo that you can see on <a href="https://github.com/gustonecrush/api-waste">my repository</a>.
+
 ## START PROJECT
+
+If you want to run in your local do the steps below :
 
 - Download this project and save to your local and also download `api-waste` repository to get the api for this simple app
 - Run `npm install` to install all packages needed
