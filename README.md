@@ -8,7 +8,7 @@ This repo is about code interview that i did to join in Waste4Change, which this
 
 If you want to run in your local do the steps below :
 
-- Download this project and save to your local and also download `api-waste` repository to get the api for this simple app
+- Download or clone this project and save to your local and also download or clone `api-waste` repository to get the api for this simple app
 - Run `npm install` to install all packages needed
 - Then, you can run command `npm start` to start your react server and see how it works
 
